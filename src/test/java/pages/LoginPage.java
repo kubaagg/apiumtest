@@ -11,7 +11,7 @@ public class LoginPage {
 
     private AndroidDriver driver;
 
-    private static Logger logger= LoggerFactory.getLogger(LoginPage.class);
+    private static Logger logger = LoggerFactory.getLogger(LoginPage.class);
 
     public LoginPage(AndroidDriver driver) {
         this.driver = driver;

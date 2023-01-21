@@ -11,7 +11,7 @@ public class FirstPageApp {
 
     private AndroidDriver driver;
 
-    private static Logger logger= LoggerFactory.getLogger(FirstPageApp.class);
+    private static Logger logger = LoggerFactory.getLogger(FirstPageApp.class);
 
     private String loginButton = "pl.tablica:id/loginBtnExp";
 
