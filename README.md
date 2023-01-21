@@ -12,6 +12,6 @@
 * Allure 2.20.1
 * AspectJ 1.9.19
 
-<h3> appPackage - pl.tablica </h3>
-<h3> appActivity - pl.tablica2.app.startup.activity.StartupActivity </h3>
+<h4> appPackage - pl.tablica </h4>
+<h4> appActivity - pl.tablica2.app.startup.activity.StartupActivity </h4>
 
