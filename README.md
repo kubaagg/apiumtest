@@ -1,6 +1,6 @@
 <h1> Appium test</h1>
 
-<h3>Test with invalid data on OLX.</h3>
+<h3>Test with invalid data on OLX.pl</h3>
 
 <h1> Technology used </h1>
 
