@@ -11,7 +11,9 @@
 * Log4j 2.19.0
 * Allure 2.20.1
 * AspectJ 1.9.19
+* Android Studio 2022.1.1.19
 
+<h4>Pixel 2 - resolution 1080 x 1920 / dp 412 x 732 </h4>
 <h4> appPackage - pl.tablica </h4>
 <h4> appActivity - pl.tablica2.app.startup.activity.StartupActivity </h4>
 
